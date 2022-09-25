@@ -15,14 +15,14 @@ from kivy.core.window import Window
 IMAGE_EXTENSION = ["png","jpg","jpeg","mpeg","gif"]
 
 SORTPATH = "E:/GP/cloak/Сортировка/"
-FVPATH = "E:/GP/cloak/❤/"
+FVPATH = "E:/GP/cloak/fave/"
 
 MAINOUTPATH = "E:/GP/cloak/"
 OUTPATHS = ["Арты","Мемы","photoshop работы"]
 
 OUTPATHS.sort()
 
-DELPATH = "E:/GP/del/"
+DELPATH = "E:/GP/trashbin/"
 
 
 def IsImage(file):
